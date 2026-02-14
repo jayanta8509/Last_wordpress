@@ -44,7 +44,7 @@ def get_wordpress_config():
         'wordpress_url': os.getenv('WP_SITE_URL'),
         'wordpress_username': os.getenv('WP_USERNAME'),
         'wordpress_app_password': os.getenv('WP_APP_PASSWORD'),
-        'wordpress_status': os.getenv('WP_STATUS', 'draft')
+        'wordpress_status': os.getenv('WP_STATUS', 'publish')
     }
 
 
