@@ -1,0 +1,9 @@
+uploads
+test
+output
+env
+__pycache__
+api_client.html
+.env
+test_api_client.py
+template_based_page_generator.py
